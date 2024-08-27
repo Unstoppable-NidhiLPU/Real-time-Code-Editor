@@ -4,7 +4,7 @@ Welcome to the **Real-time Code Editor**! This collaborative web application ena
 
 ## 🧑🏻‍💻 How It Works
 
-To get a glimpse of our application's functionality, click on the image below to watch a demo video:
+To get a glimpse of my application's functionality, click on the image below to watch a demo video:
 
 <!-- Highlighted Image with Border and Emojis -->
 <a href="https://drive.google.com/file/d/1EnNNVZDWIdSwLswU1RVPX7ULfmBYL0gQ/view?usp=drive_link" 
